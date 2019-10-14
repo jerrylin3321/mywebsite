@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/2020-twitter-election/</loc>
+    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clips/stevanovich/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clips/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/tracking-transparency/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/marketplace/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clips/pearson/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clips/bannon/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clips/printers/</loc>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clips/university-budget/</loc>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/maroon/</loc>
+    <lastmod>2016-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
