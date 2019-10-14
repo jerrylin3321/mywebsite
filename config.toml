@@ -1,36 +1,55 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "Jerry Lin"
+theme = "core"
 paginate = 5
 
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # "light" or "dark"
-  defaultTheme = "light"
+  defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
   # Show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
+
+  homeSubtitle = "Computer Science @ Stanford, Researcher, and Journalist."
+
+  # social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/euirim"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:euirim@cs.stanford.edu"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/euirim"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/euirim"
 
 [languages]
   [languages.en]
-    title = "Jerry Lin"
-    subtitle = ""
-    keywords = ""
+    title = "Euirim Choi"
+    subtitle = "Student, Researcher, Journalist"
+    keywords = "Euirim Choi, UChicago, Chicago Maroon, Computer Science"
     copyright = ""
     menuMore = "Show more"
-    writtenBy = "Written by"
+    writtenBy = "By"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+    dateFormatSingle = "January 2, 2006"
+    dateFormatList = "January 2, 2006"
 
     [languages.en.params.logo]
-      logoText = "Jerry Lin"
+      logoText = "Euirim"
       logoHomeLink = "/"
     # or
     #
@@ -39,10 +58,14 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "publications"
+        name = "Publications"
+        url = "#publications"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "projects"
+        name = "Projects"
+        url = "#projects"
+      [[languages.en.menu.main]]
+        identifier = "clips"
+        name = "Clips"
+        url = "#clips"

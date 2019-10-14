@@ -1,0 +1,87 @@
+.archive {
+    width: 100%;
+    text-align: left;
+
+    @media screen (min-width: 685px) {
+        max-width: 660px;
+    }
+
+    &:not(:last-of-type) {
+        border-bottom: 1px solid var(--light-border-color);
+
+        .dark-theme & {
+            border-color: var(--dark-border-color);
+        }
+    }
+
+    &-group {
+        display: flex;
+        margin-bottom: 1.9em;
+        line-height: normal;
+
+        @media (--tablet) {
+            display: block;
+        }
+    }
+
+    &-list {
+        flex-grow: 1;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    .archive-body {
+        &-title {
+            font-size: 1.2em;
+            margin: 5px 0 5px 0;
+            font-weight: bold;
+        }
+
+        &-year {
+            padding-top: 6px;
+            margin-right: 1.8em;
+            font-size: 1.4em;
+            @mixin dimmed;
+
+            @media (--tablet) {
+                margin: -6px 0 4px;
+            }
+        }
+
+        &-item {
+            padding: 1em 0 1em 0;
+
+            &:not(:last-of-type) {
+                border-bottom: 1px grey dashed;
+            }
+
+            a {
+                display: flex;
+                justify-content: space-between;
+                align-items: baseline;
+                padding: 12px 0;
+                text-decoration: none;
+            }
+        }
+
+        &-day {
+            flex-shrink: 0;
+            margin-left: 1em;
+            @mixin dimmed;
+        }
+
+        &-venue {
+            @mixin dimmed;
+        }
+
+        &-cover {
+            border-radius: 8px;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, .15);
+        }
+
+        &-content {
+            margin-bottom: 12px;
+        }
+    }
+}

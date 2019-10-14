@@ -1,8 +1,12 @@
 ---
-title: "Jerry Lin"
-date: 2019-10-09T14:36:13-04:00
-draft: false
-cover: "img/Duke_University_fly_over.jpg"
+title: "My First Post"
+date: 2019-03-23T14:58:51-05:00
+draft: true
+author: "Euirim Choi"
+description: "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 ---
 
-Hello! I'm an undergrad at Duke University. There's a brilliant future out there for everyone. It's this I believe, and it's this I live. 
+Hello, my name is Euirim Choi. I like pie and computers.
+
+I've included some examples of the work that I've done.
+
