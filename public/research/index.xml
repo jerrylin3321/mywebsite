@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Jerry Lin</title>
+    <link>/research/</link>
+    <description>Recent content in Researches on Jerry Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Navigation Apps Make Traffic Worse for Everyone</title>
+      <link>/research/navigationapp/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/navigationapp/</guid>
+      <description>Navigation apps like Waze claim to &amp;ldquo;outsmart traffic and get everyone the best route.&amp;rdquo; But what happens when everyone&amp;rsquo;s using these apps at the same time? In all kinds of cities across America, navigation apps have sent hordes of drivers down local streets not meant for such levels of traffic, endangering residents and increasing congestion.
+In this paper, I attempt to empirically confirm this affect of app-induced congestion on local streets by analyzing data and quantifying the increase in travel times on local streets due to cut-through traffic.</description>
+    </item>
+    
+  </channel>
+</rss>

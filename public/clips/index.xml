@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clips on Jerry Lin</title>
+    <link>/clips/</link>
+    <description>Recent content in Clips on Jerry Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/clips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chinese Coal, No Revenue, One Employee: Inside UChicago Trustee’s “$1.7 Billion” Firm</title>
+      <link>/clips/stevanovich/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/clips/stevanovich/</guid>
+      <description>Documents reveal that UChicago trustee Steve Stevanovich is late on over \$12 million in pledges to the University, and that by overselling his aviation company he may have committed securities fraud.
+Notes: Our investigation was profiled by Felix Salmon from Axios, who called it “fantastic.” Our article was cited in federal bankruptcy court.
+The almost 5,000-word investigative piece required reading over 1,000 pages of documents. I also coded a special site to host the article and designed the featured graphic.</description>
+    </item>
+    
+    <item>
+      <title>Pearsons, Who Pledged $100 Million to UChicago, Want Their Money Back</title>
+      <link>/clips/pearson/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/clips/pearson/</guid>
+      <description>Sensitive documents obtained by The Maroon last summer and a new lawsuit reveal a strained relationship between the University of Chicago and the Pearson family, calling the future of the Pearson Institute, which was supposed to change the world, into question.
+Notes: I broke this story, catching Chicago media outlets by surprise, possibly because the lawsuit was filed in a district court in Oklahoma—not in Illinois. The article was cited on Page A2 of The Wall Street Journal.</description>
+    </item>
+    
+    <item>
+      <title>Steve Bannon Accepts Invitation to Speak at the University of Chicago</title>
+      <link>/clips/bannon/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/clips/bannon/</guid>
+      <description>Booth professor Luigi Zingales, who is interested in populism, confirmed to The Maroon that Bannon accepted his invitation.
+Note: I waited for two hours outside Professor Zingales’ office to confirm a tip that we received. We then published a story before every outlet, which would later be confirmed by the Chicago Sun-Times and the Chicago Tribune. The Washington Post wrote about the invitation as well.</description>
+    </item>
+    
+    <item>
+      <title>University Hospital Patient Information Was Potentially Vulnerable to Hackers</title>
+      <link>/clips/printers/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/clips/printers/</guid>
+      <description>A Maroon investigation found that weaknesses in the University’s network could have allowed hackers to steal sensitive information from networked printers, as well as access and, in some cases, control cameras and other connected devices.
+Notes: The Illinois Collegiate Press Association said that this was 2017’s best news story in Illinois at the university level. The article won in the large school (4,000+ students) non-dailies category.</description>
+    </item>
+    
+    <item>
+      <title>An Inside Look at the University’s Budget</title>
+      <link>/clips/university-budget/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/clips/university-budget/</guid>
+      <description>Private administration documents shed light on strategic budget deficits and deliberations on how to control spending.
+Notes: This article was part of a series that was deemed by the Illinois Collegiate Press Association as being 2017’s best in-depth reporting series at the university level. The series won in the large school (4,000+ students) non-dailies category.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jerry Lin</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on Jerry Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unpacking Perceptions of Data-Driven Inferences Underlying Online Targeting and Personalization</title>
+      <link>/publications/tracking-transparency/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/tracking-transparency/</guid>
+      <description>Claire Dolin, Ben Weinshel, Shawn Shan, Chang Min Hahn, Euirim Choi, Michelle L. Mazurek, Blase Ur
+Much of what a user sees browsing the internet, from ads to search results, is targeted or personalized by algorithms that have made inferences about that user. Prior work has documented that users find such targeting simultaneously useful and creepy. We begin unpacking these conflicted feelings through two online studies. In the first study, 306 participants saw one of ten explanations for why they received an ad, reflecting prevalent methods of targeting based on demographics, interests, and other factors.</description>
+    </item>
+    
+  </channel>
+</rss>

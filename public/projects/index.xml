@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jerry Lin</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Jerry Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Al Dente Restaurant Finder</title>
+      <link>/projects/aldente/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/aldente/</guid>
+      <description>Inspired by the ideal consistency of pasta — &amp;ldquo;to the tooth&amp;rdquo; — this mighty restaurant finder makes it easier than ever to find the restaurant that&amp;rsquo;s perfect for you. Simply type in a search term, and you&amp;rsquo;ll find results curated by Yelp&amp;rsquo;s search engine. If you&amp;rsquo;re paralyzed by indecision, use the convenient Quick Recommendations panel for ideas. With automated location access, you can skip the hassle of typing in your location.</description>
+    </item>
+    
+    <item>
+      <title>DMV Buster</title>
+      <link>/projects/dmvbuster/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/dmvbuster/</guid>
+      <description>I&amp;rsquo;m a college student trying to grab an appointment for a behind-the-wheel test. Unfortunately, appointments are literally booked out three months in advance. There are occasional openings when someone cancels, but these are hard to find and usually snatched up instantly. I went looking for bots online to automate this appointment search for me, but none of them work ever since the DMV deployed a ReCaptcha on the appointment finder page.</description>
+    </item>
+    
+  </channel>
+</rss>
