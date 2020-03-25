@@ -7,36 +7,33 @@ paginate = 5
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
   # Show reading time in minutes for posts
   showReadingTime = true
 
-  homeSubtitle = "Computer Science @ Stanford, Researcher, and Journalist."
+  homeSubtitle = "Computer Science at Duke"
 
   # social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/euirim"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:euirim@cs.stanford.edu"
+    url  = "mailto:jerry.lin107@duke.edu"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/euirim"
+    url  = "https://github.com/jerrylin3321"
 
   [[params.social]]
     name = "linkedin"
-    url = "https://www.linkedin.com/in/euirim"
+    url = "https://www.linkedin.com/in/jerrylin3321"
 
 [languages]
   [languages.en]
-    title = "Euirim Choi"
-    subtitle = "Student, Researcher, Journalist"
-    keywords = "Euirim Choi, UChicago, Chicago Maroon, Computer Science"
+    title = "Jerry Lin"
+    subtitle = ""
+    keywords = "Jerry Lin, Duke"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "By"
@@ -49,7 +46,7 @@ paginate = 5
     dateFormatList = "January 2, 2006"
 
     [languages.en.params.logo]
-      logoText = "Euirim"
+      logoText = "Jerry"
       logoHomeLink = "/"
     # or
     #
@@ -58,14 +55,10 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "publications"
-        name = "Publications"
-        url = "#publications"
+        identifier = "about"
+        name = "About"
+        url = "#about"
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "#projects"
-      [[languages.en.menu.main]]
-        identifier = "clips"
-        name = "Clips"
-        url = "#clips"
