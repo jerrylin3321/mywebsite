@@ -29,6 +29,10 @@ paginate = 5
     name = "linkedin"
     url = "https://www.linkedin.com/in/jerrylin3321"
 
+  [[params.social]]
+    name = "goodreads"
+    url = "https://www.goodreads.com/book/show/22822858-a-little-life"
+
 [languages]
   [languages.en]
     title = "Jerry Lin"

@@ -1,16 +1,22 @@
 {{ define "main" }}
 <div id="home-center">
-    <h1 id="home-title">{{ .Site.Title }}</h1>
+        <div class="title-section">
+        <h2></h2>
+        <img class="main-img" src="Duke_University_fly_over.jpg" />
+        <h1 id="home-title">{{ .Site.Title }}</h1>
+        
 
-    {{- with .Site.Params.homeSubtitle }}
-    <p id="home-subtitle">{{.}}</p>
-    {{- end }}
-
-    {{- with .Site.Params.social }}
-    <div id="home-social">
-        {{ partialCached "social-icons.html" . }}
+        {{- with .Site.Params.homeSubtitle }}
+        <p id="home-subtitle">{{.}}</p>
+        {{- end }}
+        
+        {{- with .Site.Params.social }}
+        <div id="home-social">
+            {{ partialCached "social-icons.html" . }}
+        </div>
+        {{- end }}
     </div>
-    {{- end }}
+
 </div>
 <div id="home-content">
     <div class="home-content-section">
