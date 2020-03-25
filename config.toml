@@ -1,6 +1,5 @@
 baseurl = "/"
 languageCode = "en-us"
-publishDir = "docs"
 theme = "core"
 paginate = 5
 
