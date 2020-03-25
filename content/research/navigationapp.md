@@ -2,6 +2,7 @@
 title: "Navigation Apps Make Traffic Worse for Everyone"
 date: 2019-01-09
 cover: "/projects/navigation-apps.png"
+venue: "Regeneron Science Talent Search"
 link: "https://github.com/jerrylin3321/nav_rerouting/blob/master/Navigation%20App%20Rerouting%20Paper.pdf"
 draft: false
 ---

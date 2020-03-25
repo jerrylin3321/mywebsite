@@ -1,0 +1,26 @@
+<div class="archive">
+    {{- range (where .Data.Pages "Type" "research").GroupByDate "2006" }}
+    <div class="archive-group">
+        <div class="archive-body-year">{{ .Key }}</div>
+
+        <ul class="archive-list">
+            {{- range .Pages }}
+            <li class="archive-body-item">
+                <em class="archive-body-venue">{{ .Params.venue }}</em>
+                <a href="{{ .Params.link }}">
+                    <h3 class="archive-body-title">{{.Title}}</h3>
+                    <span
+                        class="archive-body-day">{{ .Date.Format "Jan"}}</span>
+                </a>
+                {{- if (.Params.cover) -}}
+                <a href="{{ .Params.link }}">
+                    <img src="{{ .Params.cover }}" class="archive-body-cover" />
+                </a>
+                {{- end -}}
+                <span class="archive-body-content">{{ .Content | markdownify }}</span>
+            </li>
+            {{- end }}
+        </ul>
+    </div>
+    {{- end }}
+</div>
